@@ -1,6 +1,6 @@
 # Grob-Planung
 
-✍️ Fügen Sie hier Ihren Namen ein
+✍️ Nando Rey
 
 ✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
 
