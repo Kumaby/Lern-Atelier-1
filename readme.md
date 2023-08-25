@@ -2,7 +2,7 @@
 
 ✍️ Nando Rey
 
-✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
+✍️ Bis Herbstferien
 
 ## Leit-Satz
 
@@ -10,9 +10,9 @@
 
 ## Arbeitspakete für 25.08.2007
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+✍️ Kapitel 1-4: C# tutorials angeschaut und Aufgaben dazu gelöst
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
+- [ ] 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
