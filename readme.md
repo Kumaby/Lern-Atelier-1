@@ -4,14 +4,17 @@
 
 ✍️ Bis Herbstferien
 
-## Leit-Satz
+## C#
 
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+✍️ C# Lernen und anwenden können, ohne grosse probleme
 
-## Arbeitspakete für 25.08.2007
+## Arbeitspakete für 01.09.2023
 
-✍️ Kapitel 1-4: C# tutorials angeschaut und Aufgaben dazu gelöst
-
+   Paket 1: C# tutorial anschauen
+   Paket 2: Aufgaben zum tutorial selber erarbeiten
+   Paket 3: weitere Aufgaben erarbeiten
+   Paket 4: 
+ 
 - [ ] 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
