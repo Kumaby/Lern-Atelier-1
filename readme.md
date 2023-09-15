@@ -32,9 +32,22 @@ Heute habe ich viel gelernt und viel auf Visual  Studios angewandt, ich habe nic
 
 ## Arbeitpakete für 15.09.2023
 
-- [] Wissen vom 01.09.2023 auffrischen
+- [x] Wissen vom 01.09.2023 auffrischen
 - [] Ein timer selber zu coden (möglichst ohne Hilfe von Chatgpt)
 - [] Ein längeres Projekt planen
+
+
+  Ich habe anfangs mein Wissen vom letzten mal aufgefrischt, habe aber den timer noch nicht gecoded und noch kein längeres Projekt geplant. Ich habe 
+  aber an den Modulen gearbeitet, weil ich ein bischen hintendrein war. An den Modulen habe ich aber gut gearbeitet und bin nicht mehr hintendrein 
+  wie vorher. Nächstes mal will ich aber an einem eigenen Projekt arbeiten. (60)
+
+
+  ## Arbeitspakete für 22.09.2023
+
+  -[] Wissen noch mal auffrischen
+  -[] timer selbst zu coden
+  -[] Projekt planen
+  
 
 
 
