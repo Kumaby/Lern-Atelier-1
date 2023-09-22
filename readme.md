@@ -44,10 +44,10 @@ Heute habe ich viel gelernt und viel auf Visual  Studios angewandt, ich habe nic
 
   ## Arbeitspakete für 22.09.2023
 
-  -[ ] Wissen noch mal auffrischen
-  -[ ] timer selbst zu coden
-  -[ ] Projekt planen
-  (-[ ] Wenn nötig werde ich an den Modulen arbeiten)
+  - [ ] Wissen noch mal auffrischen
+  - [ ] timer selbst zu coden
+  - [ ] Projekt planen
+  - [ ] Wenn nötig werde ich an den Modulen arbeiten
 
 
 
