@@ -48,7 +48,13 @@ Heute habe ich viel gelernt und viel auf Visual  Studios angewandt, ich habe nic
   - [ ] timer selbst zu coden
   - [ ] Projekt planen
   - [ ] Wenn nötig werde ich an den Modulen arbeiten
+     
 
+  ## Reflexion
+
+Am anfang der Lernperiode 1 wusste ich noch fast gar nichts über das Programmieren imt C#, ich war sehr viel auf w3schools.com und wollte mir alles einprägen und Aufgaben dazu machen. Beim ersten mal Lernatelier hat das gut funktioniert. Beim zweiten Mal, habe ich auch weiter w3schools.com gebraucht, jedoch viel weniger, da ich es schon besser konnte und gewisse Aufgaben konnte ich schon ohne grosse Hilfe erledigen. Beim dritten und beim vierten mal habe ich an den Modulen gearbeitet, weil ich ein bisschen zu wenig an ihnen gearbeitet habe. An den Modulen bin ich aber sehr gut voranngekommen habe aber nichts eigenes getan, was ich ein bisschen bereue. (108)
+  ## VBV
+In der Nächsten Lernperiode will ich nicht mehr an den Modulen arbeiten, sondern an eigenen Projekten.
 
 
 
